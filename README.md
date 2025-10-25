@@ -24,6 +24,8 @@
 - **C#**
 
 ---
+## 📁 Project Structure
+
 DapperDemo/
 │
 ├── Controllers/
@@ -49,6 +51,7 @@ Update the connection string in appsettings.json:
   "ConnectionStrings": {
   "DefaultConnection": "Server=.;Database=DapperDemoDb;Trusted_Connection=True;"
   }
+  
 Run the project:
   dotnet run
 Open Swagger UI in your browser:
@@ -73,5 +76,4 @@ Youssef
 Full Stack .NET Developer
 
 
-## 📁 Project Structure
 
